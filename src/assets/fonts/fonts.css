@@ -1,0 +1,30 @@
+
+@font-face {font-family: "Circular Std Book";
+    src: url("./circularstd/60c3ec7bbc5da3e97233ccecafe512e.eot"); /* IE9*/
+    src: url("./circularstd/860c3ec7bbc5da3e97233ccecafe512e.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./circularstd/860c3ec7bbc5da3e97233ccecafe512e.woff2") format("woff2"), /* chrome、firefox */
+    url("./circularstd/860c3ec7bbc5da3e97233ccecafe512e.woff") format("woff"), /* chrome、firefox */
+    url("./circularstd/860c3ec7bbc5da3e97233ccecafe512e.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url("./circularstd/860c3ec7bbc5da3e97233ccecafe512e.svg#Circular Std Book") format("svg"); /* iOS 4.1- */
+}  
+
+@font-face {font-family: "Neue Haas Grotesk Display Pro 75 Bold";
+    src: url("./neuhaasgrotesk/0209bfe594ed24b75ee2aac06529e4f9.eot"); /* IE9*/
+    src: url("./neuhaasgrotesk/0209bfe594ed24b75ee2aac06529e4f9.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./neuhaasgrotesk/0209bfe594ed24b75ee2aac06529e4f9.woff2") format("woff2"), /* chrome、firefox */
+    url("./neuhaasgrotesk/0209bfe594ed24b75ee2aac06529e4f9.woff") format("woff"), /* chrome、firefox */
+    url("./neuhaasgrotesk/0209bfe594ed24b75ee2aac06529e4f9.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url("./neuhaasgrotesk/0209bfe594ed24b75ee2aac06529e4f9.svg#Neue Haas Grotesk Display Pro 75 Bold") format("svg"); /* iOS 4.1- */
+  }
+
+
+
+@font-face {font-family: "FreeSans";
+    src: url("./freesans/f8f89c1c43ac513cdc8451fee0062032.eot"); /* IE9*/
+    src: url("./freesans/f8f89c1c43ac513cdc8451fee0062032.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./freesans/f8f89c1c43ac513cdc8451fee0062032.woff2") format("woff2"), /* chrome、firefox */
+    url("./freesans/f8f89c1c43ac513cdc8451fee0062032.woff") format("woff"), /* chrome、firefox */
+    url("./freesans/f8f89c1c43ac513cdc8451fee0062032.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url("./freesans/f8f89c1c43ac513cdc8451fee0062032.svg#Free Sans") format("svg"); /* iOS 4.1- */
+  }
+
