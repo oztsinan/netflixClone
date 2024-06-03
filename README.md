@@ -18,7 +18,7 @@ E-mail : sinan@demo.com
 
 
 ## Card Hover Animasyonu
-![](https://i.ibb.co/CW3NwXg/ezgif-5-a4bad9bc16-min.gif)
+![cover](https://i.ibb.co/CW3NwXg/ezgif-5-a4bad9bc16-min.gif)
 
 ## Responsive Tasarım
 ![](https://i.ibb.co/LSqS8s9/tablettelefon-min.gif)
